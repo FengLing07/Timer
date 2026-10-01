@@ -39,3 +39,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# bundle sanity-check output (npm run bundle:android)
+/.expo-export-check
